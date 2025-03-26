@@ -1,0 +1,9 @@
+{
+  "displayName": "Cookie Banner",
+  "components": [
+    {
+      "displayName": "CookieBanner",
+      "path": "dist/CookieBanner.js"
+    }
+  ]
+}
